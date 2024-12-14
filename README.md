@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conkehlicious
-- 👀 I’m interested in cars, trucks, and advanture vans
+- 👀 I’m interested in cars, trucks, and adventure vans
 - 🌱 I’m currently learning fullstack bootcamp prograrm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me conkehlicious@gmail.com
